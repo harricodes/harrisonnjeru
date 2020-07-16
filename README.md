@@ -5,7 +5,7 @@ I'm Harrison Njeru. I love building mobile and web applications. To me #Codeispo
 ### Expertise:
 <li> iOS apps development - [Swift | Objective-C] </li>
 <li> Android apps development - [Java | Kotlin | Flutter] </li>
-<li> Payment gateway integration - [Rave | Stripe | Paypal| M-pesa] </li
+<li> Payment gateway integration - [Rave | Stripe | Paypal| M-pesa] </li>
 <li> Postman for API testing </li>
 <li> Design Patterns - [MVC | MVVM | VIPER] </li>
 <li> Version Control - [GIT] </li>
